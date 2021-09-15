@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build K2P OpenWrt
+name: Build RM2100 OpenWrt
 
 on:
   repository_dispatch:
